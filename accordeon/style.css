@@ -78,6 +78,7 @@ p {
   flex-direction: column;
   margin: 3px;
   overflow: hidden;
+  border-radius: 5px;
 }
 
 .accord__link {
@@ -87,6 +88,19 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  transition: all .5s;
+}
+
+.accord__link:hover .accord__title {
+  color: yellow;
+  transition: all .5s;
+  fill: yellow;
+}
+
+.accord__link:hover .accord__arrow {
+  color: yellow;
+  transition: all .5s;
+  fill: yellow;
 }
 
 .accord__title {
@@ -94,6 +108,7 @@ p {
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
+  transition: all .5s;
 }
 
 .accord__arrow {
@@ -101,15 +116,28 @@ p {
   fill: white;
   width: 20px;
   height: 20px;
+  transition: all .5s;
 }
 
 .accord__text {
-  height: 0;
+   height: 0;
+   transition: all .5s;
+   border: 3px solid lightcoral;
+ }
+
+.accord__text p {
+  padding: 20px;
+}
+
+/*!*VARIANT-2*!*/
+.accord__text_height_opened {
+  height: 150px;
   transition: all .5s;
   border: 3px solid lightcoral;
 }
 
-
-.accord__text p {
-  padding: 20px;
+.active {
+  transform: rotate(0deg);
+  fill: yellow;
+  color: yellow;
 }
