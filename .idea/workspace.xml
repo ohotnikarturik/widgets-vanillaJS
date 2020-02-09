@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="791d900d-bf99-414c-b4bd-ee105fe468c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/accordeon/accordeon.js" beforeDir="false" afterPath="$PROJECT_DIR$/accordeon/accordeon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accordeon/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/accordeon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carousel/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carousel/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carousel/img/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carousel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accordeon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/accordeon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accordeon/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accordeon/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/accordeon/accordeon.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +22,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,13 +42,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/carousel" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/carousel" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/carusel" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,11 +68,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581278128964</updated>
-      <workItem from="1581278130414" duration="4521000" />
+      <workItem from="1581278130414" duration="9206000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581283379825">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="395" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1581283379825" />
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1581284406803">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581284406803" />
   </component>
 </project>
